@@ -6,3 +6,9 @@
 //
 
 import Foundation
+import SwiftUI
+
+extension Color{
+    static let customBlue = Color("ColorBlue")
+    static let customRed = "ColorRed"
+}
